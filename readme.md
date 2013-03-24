@@ -20,7 +20,7 @@ Point assetcrush at an .ipa file from the iTunes AppStore and it:
 -   finds all the images
 -   puts them into a folder on your desktop
 
-    `assetcrush '/Users/blake/Music/iTunes/Mobile Applications/iBooks.ipa'`
+    `./assetcrush.rb '/Users/blake/Music/iTunes/iTunes Media/Mobile Applications/Starbucks 2.5.3.ipa'`
 
 Peter's origin blog post:
 [http://idevrecipes.com/2010/12/06/extracting-images-from-apps-in-the-appstore][]
