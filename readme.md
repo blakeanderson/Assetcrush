@@ -22,7 +22,7 @@ Point assetcrush at an .ipa file from the iTunes AppStore and it:
 
     `./assetcrush.rb '/Users/blake/Music/iTunes/iTunes Media/Mobile Applications/Starbucks 2.5.3.ipa'`
 
-Peter's origin blog post:
+Peter's original blog post:
 [http://idevrecipes.com/2010/12/06/extracting-images-from-apps-in-the-appstore][]
 
   [http://idevrecipes.com/2010/12/06/extracting-images-from-apps-in-the-appstore]: http://idevrecipes.com/2010/12/06/extracting-images-from-apps-in-the-appstore
